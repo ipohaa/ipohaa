@@ -22,7 +22,7 @@ ______
 Я считаю, что могу внести ценный вклад в компанию своим упорством, желанием развиваться в области тестирования и работать над улучшением качества продукта для пользователей.
 ______
 
-### 
+### Портфолио моих навыков
 ### SQL
 #### :one: [Link>>](https://github.com/ipohaa/SQL/tree/main/homework1) :two: [Link>>](https://github.com/ipohaa/SQL/tree/main/homework2)
 #### Решение задач 1-40 с сайта SQL-ex.ru :three: [Link>>](https://github.com/ipohaa/SQL/tree/main/sql-ex) 
@@ -30,5 +30,9 @@ ______
 ### Postman
 #### :one: [Link>>](https://github.com/ipohaa/Postman/tree/main/homework1) :two: [Link>>](https://github.com/ipohaa/Postman/tree/main/homework2) :three: [Link>>](https://github.com/ipohaa/Postman/tree/main/homework3)
 ______
+### GitHub
+#### :one: XML [Link>>](https://github.com/ipohaa/xml/) :two: JSON [Link>>](https://github.com/ipohaa/json)
+______
 ### Terminal
 #### :one: [Link>>](https://github.com/ipohaa/terminal/tree/main/homework1) :two: [Link>>](https://github.com/ipohaa/terminal/tree/main/homework2)
+
