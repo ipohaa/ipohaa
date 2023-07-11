@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Telegram-steelblue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
     <a href="">
-    <img src="https://img.shields.io/badge/My CV-steelblue?style=for-the-badge&logo=GitHub&logoColor=white" alt="CV Badge"/>
+    <img src="https://img.shields.io/badge/My CV-steelblue?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV Badge"/>
   </a>
 </div>
 
