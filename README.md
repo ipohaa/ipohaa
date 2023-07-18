@@ -1,5 +1,5 @@
 <div id="badges" align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=500&vCenter=true&width=560&height=95&lines=Привет%F0%9F%91%8B+меня+зовут+Никита+Устинов+%f0%9f%98%8e;Я+действующий+QA+Engineer++%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Это+мой+профиль+достижений+Github+%F0%9F%98%8C;Всегда+открыт+для+сотрудничества!+%f0%9f%91%8f" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=500&vCenter=true&width=560&height=95&lines=Привет%F0%9F%91%8B+меня+зовут+Никита+Устинов+%f0%9f%98%8e;Это+мой+профиль+достижений+Github+%F0%9F%98%8C;Всегда+открыт+для+сотрудничества!+%f0%9f%91%8f" alt="Typing SVG" />
   </a>
 </div>
 
