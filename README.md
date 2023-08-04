@@ -23,9 +23,12 @@ ______
 ______
 
 ### Портфолио моих навыков
+### Bug Reports
+#### :one: List of my created reports [Link>>](https://docs.google.com/spreadsheets/d/17RzppNB2YIgj4jFw8O9dTf_K8lu_6yOa5zDRNsg0lFE/edit?usp=sharing)
+______
 ### SQL
 #### :one: [Link>>](https://github.com/ipohaa/SQL/tree/main/homework1) :two: [Link>>](https://github.com/ipohaa/SQL/tree/main/homework2)
-#### Решение задач 1-40 с сайта SQL-ex.ru :three: [Link>>](https://github.com/ipohaa/SQL/tree/main/sql-ex) 
+#### :three: Решение задач 1-40 с сайта SQL-ex.ru [Link>>](https://github.com/ipohaa/SQL/tree/main/sql-ex) 
 ______
 ### Postman
 #### :one: [Link>>](https://github.com/ipohaa/Postman/tree/main/homework1) :two: [Link>>](https://github.com/ipohaa/Postman/tree/main/homework2) :three: [Link>>](https://github.com/ipohaa/Postman/tree/main/homework3)
