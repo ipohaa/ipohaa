@@ -24,7 +24,7 @@ ______
 
 ### []() Портфолио моих навыков
 ### []() Bug Reports
-#### :one: [Link>>](https://docs.google.com/spreadsheets/d/17RzppNB2YIgj4jFw8O9dTf_K8lu_6yOa5zDRNsg0lFE/edit?usp=sharing) List of my created reports 
+#### []() :one: [Link>>](https://docs.google.com/spreadsheets/d/17RzppNB2YIgj4jFw8O9dTf_K8lu_6yOa5zDRNsg0lFE/edit?usp=sharing) List of my created reports 
 ______
 ### []() SQL
 #### :one: [Link>>](https://github.com/ipohaa/SQL/tree/main/homework1) :two: [Link>>](https://github.com/ipohaa/SQL/tree/main/homework2)
