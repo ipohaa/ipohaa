@@ -24,17 +24,17 @@ ______
 
 ### Портфолио моих навыков
 ### Bug Reports
-#### :one: List of my created reports [Link>>](https://docs.google.com/spreadsheets/d/17RzppNB2YIgj4jFw8O9dTf_K8lu_6yOa5zDRNsg0lFE/edit?usp=sharing)
+#### :one: [Link>>](https://docs.google.com/spreadsheets/d/17RzppNB2YIgj4jFw8O9dTf_K8lu_6yOa5zDRNsg0lFE/edit?usp=sharing) List of my created reports 
 ______
 ### SQL
 #### :one: [Link>>](https://github.com/ipohaa/SQL/tree/main/homework1) :two: [Link>>](https://github.com/ipohaa/SQL/tree/main/homework2)
-#### :three: Решение задач 1-40 с сайта SQL-ex.ru [Link>>](https://github.com/ipohaa/SQL/tree/main/sql-ex) 
+#### :three: [Link>>](https://github.com/ipohaa/SQL/tree/main/sql-ex) Решение задач 1-40 с сайта SQL-ex.ru 
 ______
 ### Postman
 #### :one: [Link>>](https://github.com/ipohaa/Postman/tree/main/homework1) :two: [Link>>](https://github.com/ipohaa/Postman/tree/main/homework2) :three: [Link>>](https://github.com/ipohaa/Postman/tree/main/homework3)
 ______
 ### GitHub
-#### :one: XML [Link>>](https://github.com/ipohaa/xml/) :two: JSON [Link>>](https://github.com/ipohaa/json)
+#### :one: [Link>>](https://github.com/ipohaa/xml/) XML :two: [Link>>](https://github.com/ipohaa/json) JSON
 ______
 ### Terminal
 #### :one: [Link>>](https://github.com/ipohaa/terminal/tree/main/homework1) :two: [Link>>](https://github.com/ipohaa/terminal/tree/main/homework2)
