@@ -22,20 +22,20 @@ ______
 Я считаю, что могу внести ценный вклад в компанию своим упорством, желанием развиваться в области тестирования и работать над улучшением качества продукта для пользователей.
 ______
 
-### Портфолио моих навыков
-### Bug Reports
+### []() Портфолио моих навыков
+### []() Bug Reports
 #### :one: [Link>>](https://docs.google.com/spreadsheets/d/17RzppNB2YIgj4jFw8O9dTf_K8lu_6yOa5zDRNsg0lFE/edit?usp=sharing) List of my created reports 
 ______
-### SQL
+### []() SQL
 #### :one: [Link>>](https://github.com/ipohaa/SQL/tree/main/homework1) :two: [Link>>](https://github.com/ipohaa/SQL/tree/main/homework2)
 #### :three: [Link>>](https://github.com/ipohaa/SQL/tree/main/sql-ex) Решение задач 1-40 с сайта SQL-ex.ru 
 ______
-### Postman
+### []() Postman
 #### :one: [Link>>](https://github.com/ipohaa/Postman/tree/main/homework1) :two: [Link>>](https://github.com/ipohaa/Postman/tree/main/homework2) :three: [Link>>](https://github.com/ipohaa/Postman/tree/main/homework3)
 ______
-### GitHub
+### []() GitHub
 #### :one: [Link>>](https://github.com/ipohaa/xml/) XML :two: [Link>>](https://github.com/ipohaa/json) JSON
 ______
-### Terminal
+### []() Terminal
 #### :one: [Link>>](https://github.com/ipohaa/terminal/tree/main/homework1) :two: [Link>>](https://github.com/ipohaa/terminal/tree/main/homework2)
 
