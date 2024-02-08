@@ -10,7 +10,7 @@
   <a href="https://t.me/ipohaa">
     <img src="https://img.shields.io/badge/Telegram-steelblue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-    <a href="https://drive.google.com/file/d/1EaSqOUOX9xKfRMmA0aU9OmL3jru3Ghif/view?usp=sharing">
+    <a href="https://drive.google.com/file/d/1x2d8e6eOK9qoEjCJ9Db00eBqVfYTKITz/view?usp=sharing">
     <img src="https://img.shields.io/badge/My CV-steelblue?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV Badge"/>
   </a>
 </div>
